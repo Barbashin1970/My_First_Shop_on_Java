@@ -6,7 +6,6 @@ import ru.yandex.praktikum.myfirstshop.model.Meat;
 import ru.yandex.praktikum.myfirstshop.service.ShoppingCart;
 
 public class Main {        // В методе main реализуй следующую логику:
-
     public static void main(String[] args) {
 
         Food[] foods = {                                                // Инициализируем данные. Для этого создаём объекты:
